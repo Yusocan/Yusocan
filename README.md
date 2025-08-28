@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1303826465388892241/1312578874101731408/convert.gif" />
+  <img src="./gif.gif" />
 </p>
 
 <p align="center">
